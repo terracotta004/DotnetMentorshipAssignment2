@@ -16,7 +16,7 @@ public class Person
         Age = 0;
     }
 
-    public void SayHello()
+    public virtual void SayHello()
     {
         Console.WriteLine($"Hello, my name is {Name}.");
     }

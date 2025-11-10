@@ -38,5 +38,12 @@ Console.WriteLine($"Person 2: Name = {person2.GetName()}, Age = {person2.GetAge(
 //     Console.WriteLine($"Error: {ex.Message}");
 // }
 
+var student1 = new DotnetMentorshipAssignment2.Student();
+student1.SetName("Charlie");
+student1.SetAge(20);
+student1.SetGrade("A");
+student1.SayHello();
+student1.Study();
+
 
 
