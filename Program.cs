@@ -45,5 +45,10 @@ student1.SetGrade("A");
 student1.SayHello();
 student1.Study();
 
+var footballPlayer = new DotnetMentorshipAssignment2.FootballPlayer("David", 10);
+footballPlayer.Play();
+
+var guitarist = new DotnetMentorshipAssignment2.Guitarist("Eve", "The Rockers");
+guitarist.Play();
 
 
