@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetMentorshipAssignment2", "DotnetMentorshipAssignment2.csproj", "{1557B245-6C9F-DFB4-8975-30AC5779D4F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentorCruise-DotnetObjectOrientedProgramming", "MentorCruise-DotnetObjectOrientedProgramming.csproj", "{1557B245-6C9F-DFB4-8975-30AC5779D4F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
